@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Recommender By RSB - Sign Up</title>
+    <style>
+        /* Global styles */
+        body {
+            background-color: lightblue;
+            font-family: 'Montserrat', sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333333;
+        }
+
+        /* Centering elements */
+        .center {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        /* Form styles */
+        .signup-form {
+            background-color: yellow;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            max-width: 400px;
+            width: 100%;
+        }
+
+        .signup-form input {
+            width: 100%;
+            padding: 15px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+
+        .signup-form input[type="submit"] {
+            background-color: green;
+            color: #333333;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        .signup-form input[type="submit"]:hover {
+            background-color: greenyellow;
+        }
+
+        .login-link {
+            font-size: 20px;
+            color: blue;
+            text-decoration: none;
+        }
+
+        .login-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<div class="center">
+    <form class="signup-form" method="POST">
+        <h1>Sign Up</h1>
+        <input type="text" name="un" placeholder="Enter Username" required/>
+        <br><br>
+        <input type="password" name="pw1" placeholder="Enter Password" required/>
+        <br><br>
+        <input type="password" name="pw2" placeholder="Confirm Password" required/>
+        <br><br>
+        <input type="submit" value="Sign Up"/>
+        <br><br>
+        <a class="login-link" href="{{url_for('login')}}">Already Registered? Login Here</a>
+        <br><br>
+        {{msg}}
+    </form>
+</div>
+
+</body>
+</html>
