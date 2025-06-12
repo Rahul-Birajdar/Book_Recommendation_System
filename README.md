@@ -1,4 +1,4 @@
-E-Library – Book Recommendation System (BRS)   
+# E-Library – Book Recommendation System (BRS)   
 🔍 Project Overview:  
 The Book Recommendation System is a personalized E-Library web application that enhances the reading experience by offering intelligent book suggestions. Built using Flask, Machine Learning, and SQLite, it supports secure user access, efficient data handling, and dynamic content delivery. The system combines popularity-based and collaborative filtering algorithms to provide accurate and relevant book recommendations.  
 
