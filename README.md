@@ -32,3 +32,12 @@ The Book Recommendation System is a personalized E-Library web application that 
 🔹 Personalized Suggestions: Uses collaborative filtering based on past user behavior    
 🔹 Rate Books: User feedback improves future recommendation accuracy  
 🔹 Admin Panel: Manage book inventory and oversee system performance
+
+💻 Outputs :  
+<img width="1919" height="1008" alt="login" src="https://github.com/user-attachments/assets/94582e9a-83b0-4d5b-849e-3af83621d322" />
+<img width="1916" height="1014" alt="signup" src="https://github.com/user-attachments/assets/99b768e9-ca93-440b-bd83-6cf804ec2dc2" />
+<img width="1919" height="1017" alt="Home1" src="https://github.com/user-attachments/assets/60117e44-c8d0-4d3c-8d0e-675ccd6e374c" />
+<img width="1919" height="1019" alt="Home2" src="https://github.com/user-attachments/assets/f1897eaa-c468-4dc8-8c84-6774c89e2644" />
+![Uploading Book Recommender.png…]()
+
+
