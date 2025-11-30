@@ -38,6 +38,7 @@ The Book Recommendation System is a personalized E-Library web application that 
 <img width="1916" height="1014" alt="signup" src="https://github.com/user-attachments/assets/99b768e9-ca93-440b-bd83-6cf804ec2dc2" />
 <img width="1919" height="1017" alt="Home1" src="https://github.com/user-attachments/assets/60117e44-c8d0-4d3c-8d0e-675ccd6e374c" />
 <img width="1919" height="1019" alt="Home2" src="https://github.com/user-attachments/assets/f1897eaa-c468-4dc8-8c84-6774c89e2644" />
-![Uploading Book Recommender.png…]()
+<img width="1894" height="1017" alt="Book Recommender" src="https://github.com/user-attachments/assets/255e8637-43aa-4198-89ae-9b4ea110f583" />
+
 
 
